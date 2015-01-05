@@ -108,8 +108,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:033609_0000_0FF7A833281DA740"/>
-            <pb facs="tcp:033609_0001_0FF7A836AEDE61F0" rendition="simple:additions"/>
+            <pb facs="unknown:033609_0000_0FF7A833281DA740"/>
+            <pb facs="unknown:033609_0001_0FF7A836AEDE61F0"
+                rendition="simple:additions"/>
             <p>A TRIBUTE TO THE UNITED STATES. A POEM.</p>
             <p>BY JOHN DAVIS.</p>
             <q>
@@ -122,7 +123,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:033609_0002_0FF7A83953C01760"/>
+            <pb facs="unknown:033609_0002_0FF7A83953C01760"/>
             <head>A TRIBUTE TO THE UNITED STATES. A POEM.</head>
             <lg>
                <l>LONG have I ſought, beſet with grievous toil,</l>
@@ -150,7 +151,7 @@
                <l>Where Wedlock's laws no human being bleſt,</l>
                <l>But babes unfather'd hung upon the breaſt;</l>
                <l>
-                  <pb n="4" facs="tcp:033609_0003_0FF7A83AE0DE69D8"/>
+                  <pb n="4" facs="unknown:033609_0003_0FF7A83AE0DE69D8"/>
 Where War deſtructive ravag'd ev'ry plain,</l>
                <l>And parent by the child was often ſlain;</l>
                <l>This Country now another aſpect wears,</l>
@@ -196,7 +197,7 @@ Where War deſtructive ravag'd ev'ry plain,</l>
                <l>Beat her bare breaſt, and wept the live-long day.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:033609_0004_0FF7A83C81CB26F8"/>
+               <pb n="5" facs="unknown:033609_0004_0FF7A83C81CB26F8"/>
                <l>But yet, lamented ſhade, the Muſe ſhall ſave</l>
                <l>Thy ſhining virtues from the clay-cold grave:</l>
                <l>Throughout the world where Freedom ſouths to reſt,</l>
@@ -242,7 +243,7 @@ Where War deſtructive ravag'd ev'ry plain,</l>
                <l>Here in the ſolemn ſtillneſs of the night,</l>
                <l>The bleeding heart wept o'er the chilling ſight</l>
                <l>
-                  <pb n="6" facs="tcp:033609_0005_0FF7A83F04795AF0"/>
+                  <pb n="6" facs="unknown:033609_0005_0FF7A83F04795AF0"/>
 Of victims ſeiz'd with peſtilential blaſt,</l>
                <l>In painful anguiſh breathing out their laſt:</l>
                <l>In each ſad ſtreet was heard the dying moan,</l>
@@ -290,7 +291,7 @@ Of victims ſeiz'd with peſtilential blaſt,</l>
                <l>When golden harveſts crown each fertile field.</l>
                <l>And bending boughs their roſy produce yield,</l>
                <l>
-                  <pb n="7" facs="tcp:033609_0006_0FF7A8428A6890E8"/>
+                  <pb n="7" facs="unknown:033609_0006_0FF7A8428A6890E8"/>
 When through the meads the mazy rivers ſtray,</l>
                <l>And dancing ſun-beams on the water play,</l>
                <l>The huſbandman beholds with grateful eye,</l>
@@ -342,7 +343,7 @@ When through the meads the mazy rivers ſtray,</l>
                <l>Till pow'r uſurp'd a calm obedience found,</l>
                <l>And human rights were trampled on the ground.</l>
                <l>
-                  <pb n="8" facs="tcp:033609_0007_0FF7A844457F0B20"/>
+                  <pb n="8" facs="unknown:033609_0007_0FF7A844457F0B20"/>
 Then kings aroſe with ſtern and haughty brow,</l>
                <l>To wreſt ſubmiſſion from the croud below,</l>
                <l>Who having once obey'd the ſtern decree,</l>
